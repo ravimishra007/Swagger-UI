@@ -7,5 +7,5 @@
 <h2>Swagger-ui-express</h2>
 <p>Swagger-ui-express creates the Swagger UI page from these definitions</p>
 
-<h2>Swagger-ui-express</h2>
-<a href="https://dev.to/kabartolo/how-to-document-an-express-api-with-swagger-ui-and-jsdoc-50do" target="_blank">A Detailed Blog To understang Swagger</a>
+<h2><a href="https://dev.to/kabartolo/how-to-document-an-express-api-with-swagger-ui-and-jsdoc-50do" target="_blank">A Detailed Blog To understang Swagger</a>
+</h2>
